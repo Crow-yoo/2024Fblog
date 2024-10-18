@@ -14,7 +14,7 @@
 - `npm install gsap`
 - `npm install @studio-freight/lenis`
 
-## 리드미 재작성 필요. 
+## 리드미 재작성 필요. 6
 
 진행상황, 오류부분 및 코드 다른 점. 
 구현하고자 하는 것.
